@@ -20,3 +20,7 @@ The following topics were learnt in this project:
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 - [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [MDN](https://developer.mozilla.org/en-US/)
+
+## Complete webpage look
+
+![Webpage](image.png)
