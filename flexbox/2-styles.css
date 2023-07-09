@@ -528,7 +528,7 @@ ul.row {
 /* Section SERVICES ============================= */
 
 .row {
-  flex-wrap: wrap;
+  flex-direction: row-reverse;
 }
 
 /*** 4. CARD ***/
