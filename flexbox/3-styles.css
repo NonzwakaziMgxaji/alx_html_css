@@ -532,7 +532,7 @@ ul.row {
 
 /* Section SERVICES ============================= */
 
-.row{
+.section-services .row{
     flex-wrap: wrap;
 }
 
