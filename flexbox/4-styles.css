@@ -353,7 +353,7 @@ ul.row {
 }
 
 .col-1-2 {
-  width: 50%;
+  width: calc((100% / 2) - 2rem);
 }
 
 /* Navbar
